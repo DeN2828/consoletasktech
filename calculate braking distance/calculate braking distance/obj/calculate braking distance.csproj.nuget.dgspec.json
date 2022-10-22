@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Den\\source\\repos\\calculate braking distance\\calculate braking distance\\calculate braking distance.csproj": {}
+    "C:\\Users\\Den\\Documents\\GitHub\\consoletaskTech\\consoletasktech\\calculate braking distance\\calculate braking distance\\calculate braking distance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Den\\source\\repos\\calculate braking distance\\calculate braking distance\\calculate braking distance.csproj": {
+    "C:\\Users\\Den\\Documents\\GitHub\\consoletaskTech\\consoletasktech\\calculate braking distance\\calculate braking distance\\calculate braking distance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Den\\source\\repos\\calculate braking distance\\calculate braking distance\\calculate braking distance.csproj",
+        "projectUniqueName": "C:\\Users\\Den\\Documents\\GitHub\\consoletaskTech\\consoletasktech\\calculate braking distance\\calculate braking distance\\calculate braking distance.csproj",
         "projectName": "calculate braking distance",
-        "projectPath": "C:\\Users\\Den\\source\\repos\\calculate braking distance\\calculate braking distance\\calculate braking distance.csproj",
+        "projectPath": "C:\\Users\\Den\\Documents\\GitHub\\consoletaskTech\\consoletasktech\\calculate braking distance\\calculate braking distance\\calculate braking distance.csproj",
         "packagesPath": "C:\\Users\\Den\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Den\\source\\repos\\calculate braking distance\\calculate braking distance\\obj\\",
+        "outputPath": "C:\\Users\\Den\\Documents\\GitHub\\consoletaskTech\\consoletasktech\\calculate braking distance\\calculate braking distance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
