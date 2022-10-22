@@ -1,13 +1,38 @@
 ﻿using calculate_braking_distance;
 
-Console.WriteLine("Enter coating condition: (0,1 - icy; 0,2 - snowy; 0,4 - wet; 0,7 - dry)");
-float input = float.Parse(Console.ReadLine());
-if (input == 0.1F || input == 0.2F || input == 0.4F || input == 0.7F)
+bool a = true;
+while (a)
 {
-    Calculate calculate = new Calculate(1F, input, 100);
-    Console.WriteLine(calculate.Calculates());
-}
-else
-{
-    Console.WriteLine("Error");
+    float number = 0;
+    Console.WriteLine("Enter num (1 - icy; \n2 - snowy; \n3 - wet; \n4 - dry \n0 - Exit): ");
+    int num = int.Parse(Console.ReadLine());
+    switch (num)
+    {
+        case 0:
+            a = false;
+            break;
+        case 1:
+            number = 0.1F;
+            break;
+        case 2:
+            number = 0.2F;
+            break;
+        case 3:
+            number = 0.4F;
+            break;
+        case 4:
+            number = 0.7F;
+            break;
+        default:
+            Console.WriteLine("Error");
+            break;
+    }
+
+    if (number == 0.1F || number == 0.2F || number == 0.4F || number == 0.7F)
+    {
+        Calculate calculate = new Calculate(1F, number, 100);
+        Console.WriteLine(calculate.Calculates());
+    }
+    else
+        Console.WriteLine("Error");
 }
