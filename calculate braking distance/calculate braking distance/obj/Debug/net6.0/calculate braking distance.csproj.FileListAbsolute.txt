@@ -1,0 +1,15 @@
+C:\Users\Den\Documents\GitHub\consoletaskTech\consoletasktech\calculate braking distance\calculate braking distance\bin\Debug\net6.0\calculate braking distance.exe
+C:\Users\Den\Documents\GitHub\consoletaskTech\consoletasktech\calculate braking distance\calculate braking distance\bin\Debug\net6.0\calculate braking distance.deps.json
+C:\Users\Den\Documents\GitHub\consoletaskTech\consoletasktech\calculate braking distance\calculate braking distance\bin\Debug\net6.0\calculate braking distance.runtimeconfig.json
+C:\Users\Den\Documents\GitHub\consoletaskTech\consoletasktech\calculate braking distance\calculate braking distance\bin\Debug\net6.0\calculate braking distance.dll
+C:\Users\Den\Documents\GitHub\consoletaskTech\consoletasktech\calculate braking distance\calculate braking distance\bin\Debug\net6.0\calculate braking distance.pdb
+C:\Users\Den\Documents\GitHub\consoletaskTech\consoletasktech\calculate braking distance\calculate braking distance\obj\Debug\net6.0\calculate braking distance.csproj.AssemblyReference.cache
+C:\Users\Den\Documents\GitHub\consoletaskTech\consoletasktech\calculate braking distance\calculate braking distance\obj\Debug\net6.0\calculate braking distance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Den\Documents\GitHub\consoletaskTech\consoletasktech\calculate braking distance\calculate braking distance\obj\Debug\net6.0\calculate braking distance.AssemblyInfoInputs.cache
+C:\Users\Den\Documents\GitHub\consoletaskTech\consoletasktech\calculate braking distance\calculate braking distance\obj\Debug\net6.0\calculate braking distance.AssemblyInfo.cs
+C:\Users\Den\Documents\GitHub\consoletaskTech\consoletasktech\calculate braking distance\calculate braking distance\obj\Debug\net6.0\calculate braking distance.csproj.CoreCompileInputs.cache
+C:\Users\Den\Documents\GitHub\consoletaskTech\consoletasktech\calculate braking distance\calculate braking distance\obj\Debug\net6.0\calculate braking distance.dll
+C:\Users\Den\Documents\GitHub\consoletaskTech\consoletasktech\calculate braking distance\calculate braking distance\obj\Debug\net6.0\refint\calculate braking distance.dll
+C:\Users\Den\Documents\GitHub\consoletaskTech\consoletasktech\calculate braking distance\calculate braking distance\obj\Debug\net6.0\calculate braking distance.pdb
+C:\Users\Den\Documents\GitHub\consoletaskTech\consoletasktech\calculate braking distance\calculate braking distance\obj\Debug\net6.0\calculate braking distance.genruntimeconfig.cache
+C:\Users\Den\Documents\GitHub\consoletaskTech\consoletasktech\calculate braking distance\calculate braking distance\obj\Debug\net6.0\ref\calculate braking distance.dll
